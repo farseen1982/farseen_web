@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HomeMoney</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_record_entry">Entry</string>
+    <string name="btn_show_list">Show List</string>
+    <string name="btn_member">Members</string>
+    <string name="title_activity_journal_actvity">Journal of Expense</string>
+    <string name="text_date">Date</string>
+    <string name="text_sum">Summary</string>
+    <string name="title_activity_detail">Journal Detail</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_expense">Expense</string>
+    <string name="text_member">Member</string>
+    <string name="text_comment">Comment</string>
+    <string name="db_journal_item">journal_item</string>
+
+</resources>
