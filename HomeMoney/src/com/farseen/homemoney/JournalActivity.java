@@ -20,5 +20,7 @@ public class JournalActivity extends Activity {
 		getMenuInflater().inflate(R.menu.journal_actvity, menu);
 		return true;
 	}
-
+	
+	
+	
 }
