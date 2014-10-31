@@ -28,3 +28,8 @@ for (i = 0; i < n; i++) {
 	deck[c2] = deck[c1];
 	deck[c1] = temp;
 }
+
+function PlaceCard(e) {
+	if(!e) var e=window.event;
+	
+}
